@@ -1,0 +1,25 @@
+body{
+    background-color: #5454546b;
+    padding: 40px 300px 20px 300px;
+} 
+#title{
+    text-align: center;
+    background-color: #ffad96d2;
+    border: 1px solid black;
+}
+#description{
+    padding: 40px 0px 0px 0px;
+    text-size-adjust: 70%;
+} 
+table{
+    border: 1px solid black;
+}
+td,th{
+    border: 1px solid black;
+    padding: 1em;
+}
+#title1{
+    text-align: center;
+    background-color: #ffad96d2;
+    border: 1px solid black;
+}
